@@ -1,0 +1,89 @@
+.navbar{
+  background-color: #1dbdd4;
+}
+.nav-item a{
+  color: white;
+}
+.card:hover {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.card-container{
+  height: 75vh;
+}
+.form-bg{
+  background-image: url(./images/adminbg.jpg);
+  height: 92.7vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.bg-container{
+  background-color: #1dbdd494;
+  background-size: cover;
+  height: 92.7vh;
+}
+.form-container{
+  width: 40%;
+  background-color: #ffffff80;
+  border-radius: 10px;
+  height: 350px;
+
+}
+.search-banner .search{
+  float: right;
+  margin: 20px 20px 0px 0px;
+}
+.doc-heading{
+  float: left;
+  margin: 18px 0px 0px 10px;
+  color: #1dbdd4;
+}
+.search-btn{
+  background-color: #ffffff00;
+  border-color: #1dbdd4;
+  color: #1dbdd4;
+  border-radius: 10px;
+  transition: 0.3s;
+}
+.search-btn:hover{
+  padding: 8px;
+}
+.search-banner{
+  height: 70px;
+}
+.rec-color{
+  color: #1dbdd4;
+}
+.create-bg{
+  background-color: #1dbdd4;
+}
+.form{
+  background-color: #ffffff96;
+  width: 50%;
+  padding: 25px;
+  border-radius: 10px
+}
+.dashboard-card{
+  height: 250px;
+  width: 100%;
+  background-color: #1dbdd4;
+  border-radius: 10px;
+  color: white;
+  transition: 0.4s;
+}
+.dashboard-card:hover{
+  background-color: white;
+  color: #1dbdd4;
+  border: 4px solid #1dbdd4;
+}
+.doc-home-heading{
+  color: white;
+  height: 90vh;
+}
+.doc-home-bg{
+  background-color: #1dbdd4;
+}
+
+/* *{
+  border: 1px solid red;
+} */
